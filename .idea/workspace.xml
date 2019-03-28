@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15e1a5e8-b9cd-48ce-b334-9a0cb340f7c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/layout/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/leads/Form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/components/leads/Leads.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/templates/frontend/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leadmanager/frontend/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadmanager/leadmanager/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/leadmanager/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leadmanager/leadmanager/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/leadmanager/leadmanager/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -160,11 +152,11 @@
     <frame x="0" y="23" width="1440" height="795" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21564482" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21564482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32859176" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32859176" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
